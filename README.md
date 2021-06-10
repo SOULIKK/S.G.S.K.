@@ -2,10 +2,10 @@
 
 ## 기술스택
 
-###### Python(Flask)
-###### mongoDB
-###### JWT
-###### bootstrap
+- Python(Flask)
+- mongoDB
+- JWT
+- bootstrap
 
 ## UX/UI
 
